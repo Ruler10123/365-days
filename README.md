@@ -17,3 +17,5 @@
 - PostgresSQL, Docker, Tailwind CSS, Next.js (I want to learn the useEffect things and how everything actually comes together)
 - Three.js stuff
 - Calendar/event syncing prototype - After exams :/
+- LangChain/Arize AI magic mix :>
+- I want to build a model ground up sometime

@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Vite cache
+.vite/
+
+# IDE/editor
+.vscode/
+*.code-workspace
+
+# TypeScript
+*.tsbuildinfo
+
+# Output
+*.out

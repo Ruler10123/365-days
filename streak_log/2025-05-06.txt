@@ -1,0 +1,8 @@
+Date: 2025-05-06
+✅ Thanks for showing up for yourself!
+🔥 Streak: 1
+
+Daily Log:
+- Scenegraphs: https://threejs.org/manual/#en/scenegraph, very interesting
+talking about how objects can pretty much only focus on local space, or the object it's directly related to
+- (ok but like wtf the sun doesn't work ; - ; )

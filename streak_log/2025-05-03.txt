@@ -4,4 +4,4 @@ Date: 2025-05-03
 
 Daily Log:
 - Starting anew, working on just coding every day and making it a habit.
-- 
+- Updated README for information on what I want to do and what stuff I wanna learn

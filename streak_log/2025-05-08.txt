@@ -1,0 +1,13 @@
+Date: 2025-05-08
+✅ Thanks for showing up for yourself!
+🔥 Streak: 1
+
+Daily Log:
+- I should probably like not skip days :>>>>
+- following https://www.youtube.com/watch?v=Q7AOvWpIVHU, https://www.youtube.com/watch?v=K_CwmMlNmQo today
+- for some reason failed at debugging keyboard shortcuts for markdown???
+- All good though, relearning JS from scratch and ? vs ??, where ? is for
+returning undefined if any values are null and ?? for returning a default value (RHS) if the LHS of ?? is null
+- Made some fucking cool Torus Knot Geometries :0
+- Maybe I like coding... a little? :>
+- Will work on it tomorrow too

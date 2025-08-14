@@ -1,2 +1,66 @@
+# --- Node core ---
+node_modules/
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.node_repl_history
+.prettierrc
+
+# --- Env files (keep examples) ---
 .env
-node_modules
+.env.*
+!.env.example
+!.env.sample
+!.env.local.example
+!.env.template
+
+# --- Build outputs ---
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+
+# --- Frameworks and bundlers ---
+.next/
+.nuxt/
+.svelte-kit/
+.storybook-out/
+storybook-static/
+.vite/
+.cache/
+.parcel-cache/
+.esbuild/
+.turbo/
+.tsup/
+.ncc/
+
+# --- Hosting / docs outputs ---
+.vercel/
+.netlify/
+.docusaurus/
+
+# --- Testing ---
+.vitest/
+coverage-final.json
+cypress/screenshots/
+cypress/videos/
+playwright-report/
+test-results/
+
+# --- TypeScript ---
+*.tsbuildinfo
+
+# --- Linters and formatters ---
+.eslintcache
+.stylelintcache
+
+# --- VS Code: ignore workspace junk but allow shareable configs ---
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
